@@ -27,9 +27,33 @@ Geo Analysis: Regional sales performance using map visuals.
 Interactive Filters: Slicers for category, segment, region, and date range.
 Profitability Insights: Visual comparison of cost vs revenue.
 
+**Dataset**
+
+Source: Global Superstore Dataset (Kaggle)
+Size: ~10,000+ rows
+Fields Used:
+Order Date, Ship Date
+Product Name, Category, Sub-Category
+Sales, Profit, Quantity, Discount
+Customer Segment, Region, Country
+
 ** Insights Gained**
 
 Found that certain regions and customer segments consistently outperform others.
 Identified that a few products with high discount rates lead to negative profit margins.
 Revealed strong seasonal trends that can guide inventory and marketing decisions.
+
+**How to Use**
+
+Download the .pbix file from this repository.
+Open it in Power BI Desktop.
+Click on different slicers and visuals to explore the data interactively.
+
+**Future Enhancements**
+
+Add predictive analytics using Python integration in Power BI.
+Embed the dashboard into a website using Power BI service.
+Automate data refresh with Power BI Gateway.
+
+
 
