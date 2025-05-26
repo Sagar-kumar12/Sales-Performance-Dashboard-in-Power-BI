@@ -37,7 +37,7 @@ Product Name, Category, Sub-Category
 Sales, Profit, Quantity, Discount
 Customer Segment, Region, Country
 
-** Insights Gained**
+**Insights Gained**
 
 Found that certain regions and customer segments consistently outperform others.
 Identified that a few products with high discount rates lead to negative profit margins.
